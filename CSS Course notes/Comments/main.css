@@ -1,0 +1,11 @@
+/*Styles for headings */
+h1 {
+  font-size: 36px;
+  color: red
+}
+
+/*Styles for paragraphs */
+p {
+  font-size: 16 px;
+  color: grey
+}
